@@ -12,6 +12,6 @@ function forLoop(array) {
 function whileLoop(n) {
   var n = 50
   while (n > 0) {
-    return 'done.'
+    return 'done'
   }
 }
