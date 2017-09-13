@@ -10,9 +10,8 @@ function forLoop(array) {
 }
 
 function whileLoop(n) {
-  var n = 50
   while (n > 0) {
     console.log(`${n}`)
-    return 'done'
   }
+  return 'done'
 }
